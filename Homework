@@ -1,0 +1,185 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HomeWork</title>
+    <style>
+
+   header{
+           background: red;
+           padding: 15px 0;
+            }
+        .menu{
+            width: 1200px;
+            display: flex;
+            margin: 0%;
+            gap: 30px;
+        }
+        .menu a{
+            background-color: red;
+            color: rgb(255, 255, 255);
+            font-family: "khmer os Battambang";
+            font-size: 18px;
+            font-weight: bold; 
+        }
+        .contaner{
+            margin-left: 400px;
+            margin-right:400px;
+            font-family:"khmer os battambang";
+        }
+        .h1{
+            font-family:"Khmer OS Battambang";
+        
+        }
+        .h2{
+            display: flex;
+            justify-content: space-between;
+            color:gray;
+        }
+        .h3{
+            color: rgb(0, 0, 0);
+            font-weight: bolder;
+            display: flex;
+        }
+        .h4{
+            color:gray;
+            font-size: 20px;
+            font-weight: bold;
+        }
+        .button {
+            background-color: red;
+            color: white;
+            font-family: "khmer os battambang";
+            font-size: 15px;
+            padding: 8px 16px;
+            display: inline-block;
+        }
+        .footer {
+            background-color: black;
+            color:white;         
+            padding: 50px 20px;      
+            font-family: 'Khmer OS Battambang';
+        }
+        .footer-text {
+            font-size: 14px;
+            line-height: 1.8;       
+            margin: 5px 0;
+        }
+
+
+    </style>
+</head>
+<body>
+   <div class="container">
+    <header>
+      <div class=" menu">
+
+         <a href="#">🏠</a>
+
+         <a href="#">ទំព័រដើម</a>
+
+         <a href="#">កីឡា</a>
+
+         <a href="#">បច្ចេកវិទ្យា</a>
+
+        <a href="#">សេដ្ឋកិច្ច</a>
+
+        <a href="#">Auto</a>
+
+      </div>
+    </header>
+    
+  <h1 class="title">
+    កត្តាធំៗធ្វើឲ Disney រងការរិះគន់ទក់សាច់ពីមហាជន​​ ដោយសាររឿង Snow White
+  </h1>
+  <p class="date">
+    ច័ន្ទ​ ,  2  ​កញ្ញា   ​ 2004    14:20
+   </p>
+   <p class="commemt">
+    ចំនួនមតិ 0 |  ចំនួនអ្នកចែករំលែក 0
+  </p>
+
+  <p class="commemt">
+    សម្រស់តួស្រីក្នងរឿង Snow White ជាហេតុធ្វើឲមហាជនទទួកការរិះគន់ទក់សាច់ ពីទស្សនិកជន។
+   </p>
+   <img src="cover.jpg" alt="" width="1300px">
+   <p class="commemt">
+   គ្មានភាពយន្ត​ Disney មួយណាទទួលបានការរិះគន់ច្រើនដូច Snow white នោះទេ ​ទាំងខ្លឹមសារ និងបញ្ហារឿងតួអង្គតែម្ដង។ ចាប់តាំងពី
+   រូបភាព និងវីដេអូដំបូងត្រូវបានបញ្ចេញមក ភាពយន្តនេះរងការមិនពេញចិត្តជាច្រើនពីសំណាក់អ្នកគ្រាំទ្រ។
+   </p>
+
+
+  <p class="content">
+  ឈុតខ្លីៗដែលបានចេញផ្សាយកាលពី ៣ សប្តាហ៏មុនទទួលបានដល់
+  ១​ លាន dislike(មិនចូលចិត្ត)ជាច្រើនជាងអ្នកចូលចិត្ត។
+  </p>
+  <img src="cover2.jpg" alt="" width="1300px">
+
+
+  <p class="content">
+    Snow white គឺជាខ្សែភាពយន្តជីវចរបុរាណមួយរបស់ Disney
+    Snow white and the seven Dwarfs (១៩៣៧) ។​ នៅក្នង
+    ខ្សែភាពយន្ត Snow White ត្រូវបានសម្លាប់ដោយម្ដាយចុងរបស់នាង
+    Evil Queen ដែលច្រណែននឹងសម្រស់របស់នាង ។ នាងរត់ចូលព្រៃ
+    ទៅជ្រកកោននៅផ្ទះមនុស្សតឿ៧នាក់ ។ ទោះជាយ៉ាងណា
+    ក៏ដោយ ម្ដាយចុងដ៏ឃោឃៅរូបនេះបានបន្តស្វែងរកវិធីដើម្បីសម្លាប់
+    Snow white ។
+  </p>
+  <img src="cover3.jpg" alt=""width="1300px">
+
+
+
+  <p class="content">
+   ចាប់តាំងពីពេលដែលគម្រោងនេះត្រូវបានប្រកាសមក Snow white
+   បានប្រឈមមុខនឹងការរិះគន់ព្រោះស្បែក និងសម្បុររបសល់តួអង្គ
+   Racher Zegler ហាក់ខុសប្លែកខ្លាំងពីតួអង្គដើម។ Snow White ត្រូវ
+   បានពិពណ៍នាដោយ Brothers Grimm ថាមាន "ស្បែកសដូចព្រិល
+   សក់ខ្មៅដូចអេបូនី​ បបូរមាត់ដូចឈាម"។ នេះក៏ជាមូលហេតុ
+   ដែលម្ដាយបង្កើតរបស់នាងដាក់ឈ្មោះនាងថា Snow white។
+  </p>
+  <img src="cover4.jpg" alt=""width="1300px">
+
+
+
+  <p class="content">
+    ទស្សនិកជនជាច្រើនក៏បានចង្អុលបង្ហាញថាភាពស្រស់ស្អាតរបស់ Evil
+    Queen ដែលសំដែងដោយ Gal Gadol គឺល្អជាង​ Racher
+    Zegler's ដូច្នេះវាពិបាកក្នងការ​ "ច្រណែន" ។ មនុស្សជាច្រើនក៏បាន
+    ប្រៀបធៀបនាងទៅនឹង Snow White ផ្សេងទៀតដូចជា Lily
+    Collins in Mirror Mirror (២០១២)ឬ kristen Stewart in
+    Snow white and the Huntsman (២០១២)៕
+  </p>
+  <img src="cover5.jpg" alt=""width="1300px">
+
+
+  <p>
+    <div class="content">
+   <a>ប្រភព៖</a>
+   <a href="https://kenh14.vn/1-trieu-nguoi-phan-doi-bach-tuyet-pha-nat-nguyen-tac-215240901200419718.chn"></a>
+   <a>អត្ថបទ៖</a>
+   <a>កេសរ</a>
+    </div>
+    <div class="content">
+      <p>ពាក្យទាក់ទង</p>
+    </div>
+    <button class="button">ភាពយន្តអន្តរជាតិ</button>
+    <button class="button">វីដេអូឃ្លីប</button>
+    <button class="button">Internationl</button>
+    <button class="button">Travel and fun</button>
+
+    <div class="footer">
+
+    <p class="footer-text">© រក្សាសិទ្ធិគ្រប់យ៉ាងដោយ Sabay ឆ្នាំ២០២៤</p>
+    <p class="footer-text"><a href="https://sabay.com/privacy-policy">គោលការណ៍ភាពឯកជន</a></p>
+    <h class="footer-text">អាសយដ្ឋាន</h>
+    <p class="footer">អគារលេខ ៣០៨ មហាវិថីព្រះមុន្នីវង្ស​ <br សង្កាត់បឹងរាំង ខណ្ឌដូនពេញ></p>
+
+    </div>
+  <div>
+
+
+    </body>
+    <html>
+
+    
+    
